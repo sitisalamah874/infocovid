@@ -1,0 +1,2 @@
+# infocovid
+Tugas UAS
